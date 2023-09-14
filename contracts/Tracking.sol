@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: UNLICENSED
 //Aniket
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.19;
 
 contract Tracking {
     enum ShipmenStatus { PENDING, IN_TRANSIT, DELIVERED}

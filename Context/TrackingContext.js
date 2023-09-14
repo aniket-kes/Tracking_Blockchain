@@ -5,7 +5,7 @@ import {ethers} from "ethers";
 
 //INTERNAL IMPORT
 import tracking from "../Context/Tracking.json";
-const ContractAddress ="";
+const ContractAddress ="0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
 const ContractABI=tracking.abi;
 
 //----FETCHING SMART CONTRACT
